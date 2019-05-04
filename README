@@ -1,4 +1,18 @@
-== MediaWiki ==
+== Библиотека MediaWiki ==
+
+Добро пожаловать на проект библиотеки на основе MediaWiki, целью которого 
+является сбор и локальное использование специализированной информации с
+возможностью синхронизации при помощи инструментов https://github.com
+
+Подробнее о платформе и работе с ней можно узнать на официальном сайте
+https://www.mediawiki.org/wiki/
+
+# Технические требования #
+
+Для успешной установке проекта на локальном компьютере необходимо:
+
+* компьютер под управлением Windows 7 и выше
+* установленные пакеты 
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
 serves as the platform for Wikipedia and the other Wikimedia projects, used
